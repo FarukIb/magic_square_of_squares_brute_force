@@ -1,0 +1,5 @@
+﻿  farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder.cpp
+C:\Users\semir.BBI\source\repos\farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder\farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder.cpp(22,13): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\semir.BBI\source\repos\farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder\farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder.cpp(111,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\semir.BBI\source\repos\farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder\farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder.cpp(112,35): warning C4018: '<': signed/unsigned mismatch
+  farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder.vcxproj -> C:\Users\semir.BBI\source\repos\farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder\Debug\farukMagicSquareOfSquaresBruteForce_ArithmeticTripleFinder.exe
